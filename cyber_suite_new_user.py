@@ -30,7 +30,7 @@ xPass = 'X' * len(password)
 print()
 print(f'Welcome, {name}. Your ID is {id}.')
 print()
-print('PASSWORD:')
+print('PASSWORD: ')
 print(f'{xPass}')
 
 
