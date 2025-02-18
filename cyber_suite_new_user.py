@@ -28,7 +28,7 @@ password = input('Please enter your password: ')
 xPass = 'X' * len(password)
 
 print()
-print(f'Welcome, {name}. Your ID is {id}')
+print(f'Welcome, {name}. Your ID is {id}.')
 print()
 print('PASSWORD:')
 print(f'{xPass}')
